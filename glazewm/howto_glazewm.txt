@@ -1,0 +1,7 @@
+Open Powershell
+
+-- Installation
+winget install GlazeWM
+
+-- Config
+The configuration ends up in C:\Users\[your username]\.glzr\glazewm\config.yaml

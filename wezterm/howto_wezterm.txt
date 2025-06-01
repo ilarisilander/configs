@@ -1,0 +1,10 @@
+Open Powershell
+
+-- Installation
+winget install wez.wezterm
+
+-- Upgrade
+winget upgrade wez.wezterm
+
+-- Configuration
+Add the .wezterm.lua to C:\Users\[your username]

@@ -1,0 +1,5 @@
+-- Installation
+Zebar is installed with GlazeWM
+
+-- Config file
+Located at C:\Users\[your username]\.glzr\zebar\starter\with-glazewm.zebar.json
