@@ -1,2 +1,7 @@
 The config should be placed in
 C:\Users\[user name]\AppData\Local\nvim\init.lua
+
+-- Dependency
+This will require to install RipGrep to be able to use live_grep in telescope.
+
+winget install BurntSushi.ripgrep.MSVC
