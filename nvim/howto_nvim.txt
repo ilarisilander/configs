@@ -1,0 +1,2 @@
+The config should be placed in
+C:\Users\[user name]\AppData\Local\nvim\init.lua
