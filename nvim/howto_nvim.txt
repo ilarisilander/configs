@@ -5,3 +5,8 @@ C:\Users\[user name]\AppData\Local\nvim\init.lua
 This will require to install RipGrep to be able to use live_grep in telescope.
 
 winget install BurntSushi.ripgrep.MSVC
+
+To use the pyright LSP, you need to install nodejs and have it in path.
+
+-- Mason
+:Mason -> this will open up the LSP handler
