@@ -4,8 +4,10 @@
     "Alt-f": "command:format",
     "Alt-k": "command:hover",
     "Alt-r": "command:references",
+    "CtrlP": "command:fzf",
+    "CtrlR": "command:tree",
     "CtrlSpace": "command:lspcompletion",
     "CtrlUnderscore": "lua:comment.comment",
-    "CtrlP": "command:fzf",
-    "CtrlR": "command:tree"
+    "F4": "command:jumptag",
+    "Ctrl-m": "FindPrevious",
 }
